@@ -1,4 +1,3 @@
-# Unacademy_growth_Accelarator
 
 # 📈 Unacademy Growth Accelerator – Case Study
 
