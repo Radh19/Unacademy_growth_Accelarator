@@ -42,6 +42,3 @@ This is a **strategic blueprint**. Results are to be collected and validated pos
 
 Built with curiosity and insight by Radhika Patil.
 
----
-
-> This case study is a simulated strategy for portfolio/demo purposes and is not affiliated with Unacademy officially.
